@@ -415,7 +415,7 @@
 
 .membership-item .display-1 {
   color: transparent;
-  -webkit-text-stroke: 2px var(--primary);
+  -webkit-text-stroke: 2px rgb(179, 174, 174);
 }
 
 /*** Testimonial ***/
