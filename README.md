@@ -49,7 +49,7 @@ Email para contato: **Mergulhar.Etec@gmail.com**
 
 ## 🌐 Link do Site
 
-Acesse o projeto online (se estiver hospedado) em: [Mergulhar]()
+Acesse o projeto online (se estiver hospedado) em: [Mergulhar](https://projetomergulhar.vercel.app)
 
 
 
